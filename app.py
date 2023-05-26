@@ -537,6 +537,7 @@ While this application uses robust cryptographic techniques, it does have potent
 ## Contact:
 - Author: **Preston Kirschner**
 - Socials: [LinkedIn](https://www.linkedin.com/in/preston-kirschner/) | [Github](https://github.com/P-carth) | [Twitter](https://twitter.com/Prestonk_)
+- Opensource project: [Huggingface](https://huggingface.co/spaces/P-carth/hidden_in_plain_byte-p2p_encrypted_steganography)
 - I would love to hear your feedback (positive or negative)! Please reach out on one of the socials above if you have questions or comments.
 """)
 
