@@ -446,7 +446,7 @@ def home_page():
     
     st.header("`P2P Encrypted Steganogaphy`")
     
-    st.image("header-image.PNG")
+    st.image("header-image.png")
     
     st.markdown(
     """
