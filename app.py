@@ -534,7 +534,7 @@ While this application uses robust cryptographic techniques, it does have potent
 
 * **RGB Channel:** While the Image hash function creates a hash of the image bits, excluding the least significant bits, of all three color channels Red, Green, and Blue, the encrypted data was only embedded in the Red Channel for this demo; however, this is a minor change that could allow for larger embedded files, which wasn't necessary for this demo. 
 
-**Contact:**
+## Contact:
 - Author: **Preston Kirschner**
 - Socials: [LinkedIn](https://www.linkedin.com/in/preston-kirschner/) | [Github](https://github.com/P-carth) | [Twitter](https://twitter.com/Prestonk_)
 - I would love to hear your feedback (positive or negative)! Please reach out on one of the socials above if you have questions or comments.
