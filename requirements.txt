@@ -1,0 +1,3 @@
+cryptography==35.0.0
+Pillow==8.4.0
+altair<5
