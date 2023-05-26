@@ -1,1 +1,1 @@
-# Hidden_in_Plain_Byte-P2P_Encrypted_Steganography
+# Hidden in Plain Byte - P2P Encrypted Steganography
