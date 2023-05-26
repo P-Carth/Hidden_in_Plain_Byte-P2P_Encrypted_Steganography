@@ -1,5 +1,3 @@
-# v5_01 working logic
-
 # Import required libraries
 import streamlit as st
 from cryptography.hazmat.primitives import hashes, padding, serialization
