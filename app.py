@@ -501,7 +501,7 @@ When the sender wants to send a private message, they:
 
 """)
     
-    st.image("diagram-1.PNG")
+    st.image("diagram-1.png")
     
     st.markdown("""
 ## Decryption Page
